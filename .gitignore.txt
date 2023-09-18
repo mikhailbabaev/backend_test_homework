@@ -1,4 +1,0 @@
-README.md
-build/side.txt
-*.doc
-test.txt
